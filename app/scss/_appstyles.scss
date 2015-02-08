@@ -2,3 +2,16 @@
 
 @import "compass/css3";
 @import "compass/utilities";
+
+body {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.connect {
+  margin-bottom: 1rem;
+
+  a i {
+    padding: 0px 6px;
+  }
+}
