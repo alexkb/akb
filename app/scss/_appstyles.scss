@@ -19,3 +19,13 @@ body {
 span.note {
   color: $small-font-color;
 }
+
+.contact {
+  ul {
+    margin: 0 0rem;
+    li {
+      list-style-type: none;
+      margin-bottom: 1rem;
+    }
+  }
+}
